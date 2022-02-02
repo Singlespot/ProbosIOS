@@ -1,0 +1,6 @@
+framework module ProbosKit {
+  umbrella header "ProbosKit.h"
+
+  export *
+  module * { export * }
+}
